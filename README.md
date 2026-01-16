@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Tecnologia | ☕ Entusiasta Java | 🚀 Futuro Desenvolvedor Backend
 
-Sou um estudante universitário apaixonado por resolver problemas através do código. Atualmente, meu foco principal é o ecossistema **Java** para desenvolvimento Backend, mas também estou expandindo meus horizontes estudando **Frontend** para me tornar um profissional mais completo.
+Sou um estudante apaixonado por resolver problemas através do código. Atualmente, meu foco principal é o ecossistema **Java** para desenvolvimento Backend, mas também estou expandindo meus horizontes estudando **Frontend** para me tornar um profissional mais completo.
 
 Estou em busca da minha primeira oportunidade como **Desenvolvedor Backend Jr**, onde possa aplicar a disciplina e os conhecimentos técnicos que venho adquirindo.
 
