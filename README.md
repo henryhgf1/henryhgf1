@@ -1,10 +1,11 @@
+
 # Olá, eu sou Henry! 👋
 
-### 🎓 Estudante de Tecnologia | ☕ Entusiasta Java | 🚀 Futuro Desenvolvedor Backend
+### 🎓 Estudante de Tecnologia | ☕ Entusiasta Java | 🚀 Futuro Desenvolvedor Fullstack
 
-Sou um estudante apaixonado por resolver problemas através do código. Atualmente, meu foco principal é o ecossistema **Java** para desenvolvimento Backend, mas também estou expandindo meus horizontes estudando **Frontend** para me tornar um profissional mais completo.
+Sou um estudante apaixonado por resolver problemas através do código. Com uma base sólida no ecossistema **Java** (Backend), estou agora expandindo minhas habilidades em **Frontend** para criar soluções completas e dominar o desenvolvimento de ponta a ponta.
 
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Backend Jr**, onde possa aplicar a disciplina e os conhecimentos técnicos que venho adquirindo.
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Fullstack Jr**, onde possa aplicar a disciplina e a integração técnica que venho desenvolvendo.
 
 ---
 
@@ -28,4 +29,6 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Backend Jr**,
 
 ### 📫 Contato
 
-www.linkedin.com/in/henry-ferreira-333ba92b6
+<a href="https://www.linkedin.com/in/henry-ferreira-333ba92b6" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
