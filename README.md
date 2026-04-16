@@ -1,12 +1,9 @@
 
 # Olá, eu sou Henry! 👋
 
-### 🎓 Estudante de Tecnologia | ☕ Entusiasta Java | 🚀 Futuro Desenvolvedor Fullstack
+### Software Engineer 
 
-Sou um estudante apaixonado por resolver problemas através do código. Com uma base sólida no ecossistema **Java** (Backend), estou agora expandindo minhas habilidades em **Frontend** para criar soluções completas e dominar o desenvolvimento de ponta a ponta.
-
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Fullstack Jr**, onde possa aplicar a disciplina e a integração técnica que venho desenvolvendo.
-
+I am a curious and dedicated Software Engineer in training at FIAP, passionate about building robust systems from the ground up. My focus is to deeply understand software architecture in order to write clean, highly resilient code. I value strategic collaboration with my teammates and am directing my career focus toward the banking sector. Driven by strong discipline and a tactical mindset, I continuously sharpen my problem-solving skills on LeetCode, treating logic as a fundamental pillar of my ongoing growth.
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
