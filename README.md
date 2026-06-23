@@ -1,9 +1,9 @@
 
 # Olá, eu sou Henry! 👋
 
-### Software Engineer 
+### full stack developer
 
-I am a curious and dedicated Software Engineer in training at FIAP, passionate about building robust systems from the ground up. My focus is to deeply understand software architecture in order to write clean, highly resilient code. I value strategic collaboration with my teammates and am directing my career focus toward the banking sector. Driven by strong discipline and a tactical mindset, I continuously sharpen my problem-solving skills on LeetCode, treating logic as a fundamental pillar of my ongoing growth.
+I am a curious and dedicated full stack developer in training at FIAP, passionate about building robust systems from the ground up. My focus is to deeply understand software architecture in order to write clean, highly resilient code. I value strategic collaboration with my teammates and am directing my career focus toward the banking sector. Driven by strong discipline and a tactical mindset, I continuously sharpen my problem-solving skills on LeetCode, treating logic as a fundamental pillar of my ongoing growth.
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
